@@ -24,3 +24,5 @@ The example is based on the idea from the recent Android Dev Summit talk:
 [Understanding Compose](https://www.youtube.com/watch?v=Q9MtlmmN4Q0)
 
 and whilst this repo doesn't use compose, it's a baseline so we can compare another repo/compose example against it.
+
+![](/mailbox.gif)
