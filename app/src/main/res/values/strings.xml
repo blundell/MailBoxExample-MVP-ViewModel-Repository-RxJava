@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP with ViewModel</string>
+    <string name="hello_mailbox">Hello Mailbox!</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="read_mail">Read Mail</string>
+    <string name="read_all_mail">Read All Mail</string>
+</resources>
